@@ -56,7 +56,7 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman newcent
+\font_roman utopia
 \font_sans default
 \font_typewriter default
 \font_default_family rmdefault
@@ -195,9 +195,9 @@ Objective
 \end_layout
 
 \begin_layout Standard
-Professional seeking an analyst position which utilizes which utilizes curiosity
-, collaboration, statistics & programming to enhance efficiency, aide decision
- support and expand institutional knowledge.
+Professional seeking a quantitative analyst / data scientist position which
+ utilizes curiosity, collaboration, statistics & programming skills to enhance
+ efficiency, aide decision support and expand knowledge.
 \end_layout
 
 \begin_layout Standard
@@ -508,7 +508,11 @@ status collapsed
 
 \end_inset
 
-Windows, Linux, Teradata, Cognos, CUDA Parallel Computing
+Windows, Linux, Teradata, Cognos, 
+\begin_inset Newline newline
+\end_inset
+
+CUDA Parallel Computing
 \begin_inset ERT
 status collapsed
 
