@@ -113,7 +113,7 @@
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -127,11 +127,8 @@ Note:
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 The moderncv class offers lots of customization possibilities; some are
@@ -146,9 +143,6 @@ moderncv
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -163,7 +157,7 @@ maketitle
 
 
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 outputs the title part like the address
@@ -195,14 +189,14 @@ Objective
 \end_layout
 
 \begin_layout Standard
-Professional seeking a quantitative analyst / data scientist position which
- utilizes curiosity, collaboration, statistics & programming skills to enhance
- efficiency, aide decision support and expand knowledge.
+Professional seeking a quantitative analyst position which utilizes curiosity,
+ statistics & programming skills to enhance efficiency, aide decision support
+ and expand knowledge.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Quant Job -- Professional seeking a Big Data / quantitative analyst position
@@ -212,12 +206,9 @@ Quant Job -- Professional seeking a Big Data / quantitative analyst position
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
+ 
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Normal Job -- Professional seeking an analyst position which utilizes curiosity,
@@ -425,6 +416,166 @@ Program selected for requirement to speak only Mandarin with classmates
 \end_layout
 
 \begin_layout Section
+Experience
+\end_layout
+
+\begin_layout Entry
+2013--present
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+BI Intern
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\shape smallcaps
+The Goodyear Tire & Rubber Company
+\shape default
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Akron
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Ohio
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+▸ Authored a discrete event simulation to aide Global Supply Chain's reorder
+ process optimization
+\begin_inset Newline newline
+\end_inset
+
+▸ Applied statistical knowledge to the design of surveys & interpretation
+ of results
+\begin_inset Newline newline
+\end_inset
+
+▸ Summarized statistical concepts & results for leadership
+\begin_inset Newline newline
+\end_inset
+
+▸ Provided statistical consulting for colleagues studying non-linear business
+ problems
+\begin_inset Newline newline
+\end_inset
+
+▸ Collaboratively developed reporting, tables and views in the EDW relational
+ database
+\begin_inset Newline newline
+\end_inset
+
+▸ Aided in IT Cognos reporting project management, organization & implementation
+\end_layout
+
+\begin_layout Entry
+2009--2013
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Culinary Employee
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\shape smallcaps
+PF Chang's
+\shape default
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Akron
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Ohio
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+▸ Trained six junior coworkers on various culinary stations to meet & exceed
+ standards
+\begin_inset Newline newline
+\end_inset
+
+▸ Discovered & implemented techniques to execute two-person stations single
+ handed
+\end_layout
+
+\begin_layout Section
 Computing
 \end_layout
 
@@ -493,7 +644,7 @@ status collapsed
 
 \end_inset
 
-R, MATLAB, SAS, Minitab, SPSS
+R, Minitab, SAS, SPSS, MATLAB
 \end_layout
 
 \begin_layout Computer
@@ -512,7 +663,7 @@ Windows, Linux, Teradata, Cognos,
 \begin_inset Newline newline
 \end_inset
 
-CUDA Parallel Computing
+MPI & CUDA Parallel Programming
 \begin_inset ERT
 status collapsed
 
@@ -588,166 +739,6 @@ status collapsed
 
 Analytic Geometry / Calculus, Linear Algebra, Discrete, Symbolic & Formal
  Logic
-\end_layout
-
-\begin_layout Section
-Experience
-\end_layout
-
-\begin_layout Entry
-2013--present
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-BI Intern
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-
-\shape smallcaps
-The Goodyear Tire & Rubber Company
-\shape default
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Akron
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Ohio
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-▸ Collaboratively developed reporting, tables and views in the EDW relational
- database
-\begin_inset Newline newline
-\end_inset
-
-▸ Aided in IT Cognos reporting project management, organization & implementation
-\begin_inset Newline newline
-\end_inset
-
-▸ Authored a stochastic simulation to aide Global Supply Chain's reorder
- process optimization
-\begin_inset Newline newline
-\end_inset
-
-▸ Applied statistical knowledge to the design of surveys & interpretation
- of results
-\begin_inset Newline newline
-\end_inset
-
-▸ Summarized statistical concepts & results for leadership
-\begin_inset Newline newline
-\end_inset
-
-▸ Provided statistical consulting for colleagues studying non-linear business
- problems
-\end_layout
-
-\begin_layout Entry
-2009--2013
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Culinary Employee
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-
-\shape smallcaps
-PF Chang's
-\shape default
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Akron
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Ohio
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-▸ Trained six junior coworkers on various culinary stations to meet & exceed
- standards
-\begin_inset Newline newline
-\end_inset
-
-▸ Discovered & implemented techniques to execute two-person stations single
- handed
 \end_layout
 
 \begin_layout Section
