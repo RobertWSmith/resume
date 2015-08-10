@@ -1,11 +1,11 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass moderncv
 \begin_preamble
 % required
-\moderncvtheme[grey]{casual}
+\moderncvtheme[grey]{classic}
 % possible themes are 'classic', 'casual', 'oldstyle' and 'banking'
 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
 
@@ -59,13 +59,13 @@
 \font_roman utopia
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -76,15 +76,24 @@
 \use_hyperref false
 \papersize letterpaper
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 0
 \index Index
 \shortcut idx
@@ -144,7 +153,7 @@ moderncv
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -189,9 +198,8 @@ Objective
 \end_layout
 
 \begin_layout Standard
-Professional seeking a quantitative analyst position which utilizes curiosity,
- statistics & programming skills to enhance efficiency, aide decision support
- and expand knowledge.
+Supply Chain Professional seeking to apply diverse knowledge and problem
+ solving skills to a business process improvement and customer service position
 \end_layout
 
 \begin_layout Standard
@@ -222,266 +230,169 @@ Normal Job -- Professional seeking an analyst position which utilizes curiosity,
 \end_layout
 
 \begin_layout Section
-Education
-\end_layout
-
-\begin_layout Entry
-Dec.
- 2013
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
- Bachelor of Science
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-
-\shape smallcaps
-The University of Akron
-\shape default
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Akron
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Ohio
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
- Major in Statistics, Concentration in Computer Science
-\end_layout
-
-\begin_layout Entry
-June 2008
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
- Bachelor of Arts
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-
-\shape smallcaps
-Ohio University
-\shape default
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Athens
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Ohio
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Major in Political Science, initiated Mandarin Chinese education
-\end_layout
-
-\begin_layout Entry
-2007
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
- Study Abroad
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-
-\shape smallcaps
-Harbin Institute of Technology
-\shape default
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Harbin
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-China
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Program selected for requirement to speak only Mandarin with classmates
- 
-\end_layout
-
-\begin_layout Section
 Experience
 \end_layout
 
 \begin_layout Entry
-2013--present
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
+Dec.
+ 2013--
+\begin_inset Newline newline
+\end_inset
 
-}{
+present
 \end_layout
 
 \end_inset
 
-BI Intern
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 2
+status open
 
 \begin_layout Plain Layout
-
-}{
+Supply Chain Analyst I
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 
 \shape smallcaps
 The Goodyear Tire & Rubber Company
-\shape default
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Akron
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
 Ohio
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-▸ Authored a discrete event simulation to aide Global Supply Chain's reorder
- process optimization
+▸ Created and maintain ERP automation programs which helped significantly
+ reduce the number work hours required to maintain Sales Documents
+\begin_inset Newline newline
+\end_inset
+
+▸ Authored and interpreted a survey for Human Resources and leadership which
+ helped to identify over 1,700 work hours per week spent on reporting
+\begin_inset Newline newline
+\end_inset
+
+▸ Created ERP automation scripts which helped to reduce manual work by over
+ 100 hours per week
+\begin_inset Newline newline
+\end_inset
+
+▸ Managed & maintained over 20 reports with regular distribution lists
+\begin_inset Newline newline
+\end_inset
+
+▸ Applied database knowledge to expore multi-billion record data warehouse
+ for analysis needs
+\begin_inset Newline newline
+\end_inset
+
+▸ Identified issues with inventory reporting which helped increase accuracy
+ by over 100,000 units
+\begin_inset Newline newline
+\end_inset
+
+▸ Participated in the creation, maintenance & analysis of of the On Time
+ Delivery customer service metric
+\begin_inset Newline newline
+\end_inset
+
+▸ Quantified the impact of proposed logic and business process changes to
+ a number of business metrics
+\begin_inset Newline newline
+\end_inset
+
+▸ Designed Supply Chain leadership dashboards and configurable reports for
+ general consumption
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Jan.
+ 2013--
+\begin_inset Newline newline
+\end_inset
+
+Dec.
+ 2013
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Business Intelligence Intern
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+The Goodyear Tire & Rubber Company
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Akron
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Ohio
+\end_layout
+
+\end_inset
+
+▸ Authored a discrete event simulation to aide Global Supply Chain's Raw
+ Material reorder optimization
 \begin_inset Newline newline
 \end_inset
 
@@ -499,81 +410,179 @@ status collapsed
 \begin_inset Newline newline
 \end_inset
 
-▸ Collaboratively developed reporting, tables and views in the EDW relational
- database
-\begin_inset Newline newline
-\end_inset
+▸ Developed reporting in the Data Warehouse database and Business Intelligence
+ systems
+\end_layout
 
-▸ Aided in IT Cognos reporting project management, organization & implementation
+\begin_layout Section
+Education
 \end_layout
 
 \begin_layout Entry
-2009--2013
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+Dec.
+ 2013
 \end_layout
 
 \end_inset
 
-Culinary Employee
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 2
+status open
 
 \begin_layout Plain Layout
-
-}{
+ Bachelor of Science
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 
 \shape smallcaps
-PF Chang's
-\shape default
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
+The University of Akron
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Akron
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
 Ohio
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-▸ Trained six junior coworkers on various culinary stations to meet & exceed
- standards
-\begin_inset Newline newline
+ Major in Statistics, Concentration in Computer Science
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+June 2008
+\end_layout
+
 \end_inset
 
-▸ Discovered & implemented techniques to execute two-person stations single
- handed
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+ Bachelor of Arts
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Ohio University
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Athens
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Ohio
+\end_layout
+
+\end_inset
+
+Major in Political Science, Concentration in Mandarin Chinese
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2007
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+ Study Abroad
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Harbin Institute of Technology
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Harbin
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+China
+\end_layout
+
+\end_inset
+
+Program selected for requirement to speak only Mandarin with classmates
+ 
 \end_layout
 
 \begin_layout Section
@@ -581,129 +590,61 @@ Computing
 \end_layout
 
 \begin_layout Item
-Interests
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+Languages
 \end_layout
 
 \end_inset
 
-Data Visualization, Reproducible Research, Artificial Intelligence, Parallel
- Processing
+SQL, Python, R, Minitab, SAS, SPSS
 \end_layout
 
 \begin_layout Item
-Projects
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Designing an open-source Exploratory Data Analysis library for the R Project
-\end_layout
-
-\begin_layout Computer
-Languages
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-C & C++, Java, Python, SQL, Lisp
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Statistics
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-R, Minitab, SAS, SPSS, MATLAB
-\end_layout
-
-\begin_layout Computer
 Platforms
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Windows, Linux, Teradata, Cognos, 
-\begin_inset Newline newline
-\end_inset
+Windows, Linux, Teradata, Cognos, SAP, Winshuttle Studio
+\begin_inset Note Note
+status open
 
-MPI & CUDA Parallel Programming
-\begin_inset ERT
-status collapsed
+\begin_layout Item
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+Interests
 \end_layout
 
 \end_inset
 
-Documents
-\begin_inset ERT
-status collapsed
+Data Analysis & Visualization, Reproducible Research, Artificial Intelligence
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
+Languages
+\end_layout
 
-}{
+\end_inset
+
+Teradata & MS Access SQL, Python, R, C++, Microsoft Command Line
 \end_layout
 
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-LaTeX
-\end_layout
-
-\end_inset
-
-, HTML, CSS, JavaScript,
-\begin_inset Newline newline
-\end_inset
-
- Microsoft Office
 \end_layout
 
 \begin_layout Section
@@ -711,69 +652,57 @@ Quantitative
 \end_layout
 
 \begin_layout Item
-Statistics
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+Statistics
 \end_layout
 
 \end_inset
 
-Exploratory Data Analysis, Survey Design, Multivariate Analysis, Nonparametric
- Procedures, Time Series Analysis, Regression & ANOVA, Experimental Design
+Time Series Analysis, Regression & ANOVA, Exploratory Data Analysis, Survey
+ Design, Multivariate Analysis, Non-parametric Procedures, Survey Design,
+ Experimental Design
 \end_layout
 
 \begin_layout Item
-Mathematics
-\begin_inset ERT
+\begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-
-}{
+Mathematics
 \end_layout
 
 \end_inset
 
-Analytic Geometry / Calculus, Linear Algebra, Discrete, Symbolic & Formal
- Logic
+Analytic Geometry / Calculus, Linear Algebra
 \end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Section
 Language
 \end_layout
 
 \begin_layout Item
-English
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Native
-\end_layout
-
-\begin_layout Item
 Mandarin
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
 Conversational -- Studied at Ohio University & in Harbin, China
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_body
