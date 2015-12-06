@@ -198,8 +198,9 @@ Objective
 \end_layout
 
 \begin_layout Standard
-Supply Chain Professional seeking to apply diverse knowledge and problem
- solving skills to a business process improvement and customer service position
+Supply Chain Professional seeking a collaborative process improvement position
+ which utilizes statistics, computing background and offers opportunities
+ for creative problem solving.
 \end_layout
 
 \begin_layout Standard
@@ -238,12 +239,84 @@ Experience
 status open
 
 \begin_layout Plain Layout
+Sept.
+ 2015--
+\begin_inset Newline newline
+\end_inset
+
+present
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Supply Chain Analyst II
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+The Goodyear Tire & Rubber Company
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Akron
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Ohio
+\end_layout
+
+\end_inset
+
+▸ Monitored changes to production plans and yeilds which impact customers
+ directly
+\begin_inset Newline newline
+\end_inset
+
+▸ Facilitiate collaboration between Customers, Category, Demand Planning
+ and Supply Planning
+\begin_inset Newline newline
+\end_inset
+
+▸ Author reporting which streamlines root cause issue identification and
+ resolution
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
 Dec.
  2013--
 \begin_inset Newline newline
 \end_inset
 
-present
+Sept.
+ 2015
 \end_layout
 
 \end_inset
@@ -290,22 +363,17 @@ Ohio
 
 \end_inset
 
-▸ Created and maintain ERP automation programs which helped significantly
- reduce the number work hours required to maintain Sales Documents
+▸ Created ERP automation programs to maintain Sales Documents
 \begin_inset Newline newline
 \end_inset
 
-▸ Authored and interpreted a survey for Human Resources and leadership which
- helped to identify over 1,700 work hours per week spent on reporting
+▸ Surveyed associates with Human Resources idenfiying over 1,700 weekly
+ reporting work hours
 \begin_inset Newline newline
 \end_inset
 
-▸ Created ERP automation scripts which helped to reduce manual work by over
- 100 hours per week
-\begin_inset Newline newline
-\end_inset
-
-▸ Managed & maintained over 20 reports with regular distribution lists
+▸ Managed & maintained over two dozen reports with regular distribution
+ lists
 \begin_inset Newline newline
 \end_inset
 
@@ -354,7 +422,7 @@ Dec.
 status open
 
 \begin_layout Plain Layout
-Business Intelligence Intern
+Business Intelligence Intern, EDW
 \end_layout
 
 \end_inset
@@ -391,17 +459,8 @@ Ohio
 
 \end_inset
 
-▸ Authored a discrete event simulation to aide Global Supply Chain's Raw
- Material reorder optimization
-\begin_inset Newline newline
-\end_inset
-
-▸ Applied statistical knowledge to the design of surveys & interpretation
- of results
-\begin_inset Newline newline
-\end_inset
-
-▸ Summarized statistical concepts & results for leadership
+▸ Developed a discrete event simulation to optimize Global Raw Materials
+ reorder process
 \begin_inset Newline newline
 \end_inset
 
@@ -573,7 +632,7 @@ Harbin
 
 
 \begin_inset Argument 5
-status open
+status collapsed
 
 \begin_layout Plain Layout
 China
@@ -581,40 +640,40 @@ China
 
 \end_inset
 
-Program selected for requirement to speak only Mandarin with classmates
- 
+Participated in Mandarin language immersion
 \end_layout
 
 \begin_layout Section
+Skills
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Quantitative
+\end_layout
+
+\end_inset
+
+Time Series Analysis, Regression & ANOVA, Exploratory Data Analysis, Survey
+ Design, Multivariate Analysis, Non-parametric Procedures, Survey Design,
+ Experimental Design, Analytic Geometry / Calculus, Linear Algebra
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
 Computing
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Languages
-\end_layout
-
 \end_inset
 
-SQL, Python, R, Minitab, SAS, SPSS
+SQL, Python, R, Minitab, SAS, SPSS, C++, C
 \end_layout
-
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Platforms
-\end_layout
-
-\end_inset
-
-Windows, Linux, Teradata, Cognos, SAP, Winshuttle Studio
-\begin_inset Note Note
-status open
 
 \begin_layout Item
 \begin_inset Argument 1
@@ -626,7 +685,7 @@ Interests
 
 \end_inset
 
-Data Analysis & Visualization, Reproducible Research, Artificial Intelligence
+Reproducible Research, Artificial Intelligence, Big Data, Data Visualization
 \end_layout
 
 \begin_layout Item
@@ -634,18 +693,17 @@ Data Analysis & Visualization, Reproducible Research, Artificial Intelligence
 status open
 
 \begin_layout Plain Layout
-Languages
+Language
 \end_layout
 
 \end_inset
 
-Teradata & MS Access SQL, Python, R, C++, Microsoft Command Line
+ Conversational Mandarin
 \end_layout
 
-\end_inset
-
-
-\end_layout
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Section
 Quantitative
@@ -679,9 +737,58 @@ Mathematics
 Analytic Geometry / Calculus, Linear Algebra
 \end_layout
 
-\begin_layout Standard
+\begin_layout Section
+Computing
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Languages
+\end_layout
+
+\end_inset
+
+SQL, Python, R, Minitab, SAS, SPSS, C++, C
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Platforms
+\end_layout
+
+\end_inset
+
+Windows, Linux, Teradata, Cognos, SAP
 \begin_inset Note Note
-status collapsed
+status open
+
+\begin_layout Item
+Winshuttle Studio
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Interests
+\end_layout
+
+\end_inset
+
+Data Analysis & Visualization, Reproducible Research, Artificial Intelligence
+\end_layout
 
 \begin_layout Section
 Language
