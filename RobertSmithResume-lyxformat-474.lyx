@@ -1,9 +1,7 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
-\save_transient_properties true
-\origin unavailable
 \textclass moderncv
 \begin_preamble
 % required
@@ -58,16 +56,16 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "utopia" "default"
-\font_sans "default" "default"
-\font_typewriter "default" "default"
-\font_math "auto" "auto"
+\font_roman utopia
+\font_sans default
+\font_typewriter default
+\font_math auto
 \font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100 100
-\font_tt_scale 100 100
+\font_sf_scale 100
+\font_tt_scale 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -144,8 +142,7 @@ status collapsed
 \begin_layout Plain Layout
 The moderncv class offers lots of customization possibilities; some are
  explained in the preamble of this document; for more information look at
- the documentation of the \SpecialChar LaTeX
--package 
+ the documentation of the LaTeX-package 
 \series bold
 moderncv
 \series default
@@ -201,34 +198,17 @@ Objective
 \end_layout
 
 \begin_layout Standard
-Analytical professional seeking to obtain a challenging strategic position
- which utilizes previous strategic analysis experience and quantitative
- skills in a role which requires creative problem solving to maximize resource
- utilization.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 Supply Chain Professional seeking a collaborative process improvement position
  which utilizes statistics, computing background and offers opportunities
  for creative problem solving.
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
-Quant Job – Professional seeking a Big Data / quantitative analyst position
+Quant Job -- Professional seeking a Big Data / quantitative analyst position
  which utilizes curiosity, collaboration, statistics & programming training
  to enhance efficiency, aide decision support and expand knowledge.
 \end_layout
@@ -237,10 +217,10 @@ Quant Job – Professional seeking a Big Data / quantitative analyst position
 
  
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
-Normal Job – Professional seeking an analyst position which utilizes curiosity,
+Normal Job -- Professional seeking an analyst position which utilizes curiosity,
  collaboration, statistics & programming training to enhance efficiency,
  aide decision support and expand knowledge.
 \end_layout
@@ -259,82 +239,12 @@ Experience
 status open
 
 \begin_layout Plain Layout
-Apr.
- 2016-
-\begin_inset Newline newline
-\end_inset
-
-Present
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status open
-
-\begin_layout Plain Layout
-Operations Research Analyst Staff
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 3
-status open
-
-\begin_layout Plain Layout
-The Goodyear Tire & Rubber Company
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Akron
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 5
-status open
-
-\begin_layout Plain Layout
-Ohio
-\end_layout
-
-\end_inset
-
-▸ Designed and implemented reproducible statistical forecasting process
- improving accuracy > 10%
-\begin_inset Newline newline
-\end_inset
-
-▸ Identified opportunity for resource consolidation which saved over $200k
- per year
-\begin_inset Newline newline
-\end_inset
-
-▸ Provided quantitative and process consulting for specialized operations
- teams
-\end_layout
-
-\begin_layout Entry
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
 Sept.
- 2015–
+ 2015--
 \begin_inset Newline newline
 \end_inset
 
-Apr.
- 2016
+present
 \end_layout
 
 \end_inset
@@ -354,6 +264,8 @@ Supply Chain Analyst II
 status open
 
 \begin_layout Plain Layout
+
+\shape smallcaps
 The Goodyear Tire & Rubber Company
 \end_layout
 
@@ -379,8 +291,8 @@ Ohio
 
 \end_inset
 
-▸ Monitored and communicate changes to production which directly impacts
- customers
+▸ Monitored changes to production plans and yeilds which impact customers
+ directly
 \begin_inset Newline newline
 \end_inset
 
@@ -399,7 +311,7 @@ status open
 
 \begin_layout Plain Layout
 Dec.
- 2013–
+ 2013--
 \begin_inset Newline newline
 \end_inset
 
@@ -424,6 +336,8 @@ Supply Chain Analyst I
 status open
 
 \begin_layout Plain Layout
+
+\shape smallcaps
 The Goodyear Tire & Rubber Company
 \end_layout
 
@@ -453,8 +367,8 @@ Ohio
 \begin_inset Newline newline
 \end_inset
 
-▸ Surveyed associates with Human Resources to quantify weekly time use statistic
-s
+▸ Surveyed associates with Human Resources idenfiying over 1,700 weekly
+ reporting work hours
 \begin_inset Newline newline
 \end_inset
 
@@ -463,7 +377,7 @@ s
 \begin_inset Newline newline
 \end_inset
 
-▸ Applied database knowledge to explore multi-billion record data warehouse
+▸ Applied database knowledge to expore multi-billion record data warehouse
  for analysis needs
 \begin_inset Newline newline
 \end_inset
@@ -493,7 +407,7 @@ status open
 
 \begin_layout Plain Layout
 Jan.
- 2013–
+ 2013--
 \begin_inset Newline newline
 \end_inset
 
@@ -518,6 +432,8 @@ Business Intelligence Intern, EDW
 status open
 
 \begin_layout Plain Layout
+
+\shape smallcaps
 The Goodyear Tire & Rubber Company
 \end_layout
 
@@ -741,8 +657,9 @@ Quantitative
 
 \end_inset
 
-Time Series Analysis, Regression & ANOVA, Exploratory Data Analysis, Experimenta
-l Design, Survey Design, Multivariate Analysis, Nonparametric Procedures
+Time Series Analysis, Regression & ANOVA, Exploratory Data Analysis, Survey
+ Design, Multivariate Analysis, Non-parametric Procedures, Survey Design,
+ Experimental Design, Analytic Geometry / Calculus, Linear Algebra
 \end_layout
 
 \begin_layout Item
@@ -755,7 +672,7 @@ Computing
 
 \end_inset
 
-SQL, R, Python, Minitab, SAS, SPSS, C/C++
+SQL, Python, R, Minitab, SAS, SPSS, C++, C
 \end_layout
 
 \begin_layout Item
@@ -769,6 +686,19 @@ Interests
 \end_inset
 
 Reproducible Research, Artificial Intelligence, Big Data, Data Visualization
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Language
+\end_layout
+
+\end_inset
+
+ Conversational Mandarin
 \end_layout
 
 \begin_layout Standard
@@ -874,20 +804,7 @@ Mandarin
 
 \end_inset
 
-Conversational – Studied at Ohio University & in Harbin, China
-\end_layout
-
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Language
-\end_layout
-
-\end_inset
-
- Conversational Mandarin
+Conversational -- Studied at Ohio University & in Harbin, China
 \end_layout
 
 \end_inset
