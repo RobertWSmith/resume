@@ -6,6 +6,8 @@
 \origin unavailable
 \textclass moderncv
 \begin_preamble
+\usepackage[T1]{fontenc}
+
 % required
 \moderncvtheme[grey]{classic}
 % possible themes are 'classic', 'casual', 'oldstyle' and 'banking'
@@ -201,14 +203,26 @@ Objective
 \end_layout
 
 \begin_layout Standard
-Professional seeking to obtain a challenging analytical position which utilizes
- previous experience and quantitative skills in a role which offers opportunitie
-s for commincation, growth and creative problem solving.
+Quantitative professional seeking to apply knowledge in an environment which
+ offers opportunities to apply communication, problem solving and leadership
+ skils.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Note Note
 status open
+
+\begin_layout Plain Layout
+Professional seeking to obtain a challenging analytical position which utilizes
+ previous experience and quantitative skills in a role which offers opportunitie
+s for commincation, growth and creative problem solving.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
 Supply Chain Professional seeking a collaborative process improvement position
@@ -223,7 +237,7 @@ Supply Chain Professional seeking a collaborative process improvement position
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Quant Job – Professional seeking a Big Data / quantitative analyst position
@@ -235,7 +249,7 @@ Quant Job – Professional seeking a Big Data / quantitative analyst position
 
  
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Normal Job – Professional seeking an analyst position which utilizes curiosity,
@@ -257,12 +271,77 @@ Experience
 status open
 
 \begin_layout Plain Layout
+Jan.
+ 2017
+\begin_inset Newline newline
+\end_inset
+
+Present
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Business Analytics Consultant Senior
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+The PNC Financial Services Group, Inc.
+ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Brecksville
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Ohio
+\end_layout
+
+\end_inset
+
+▸ Consulted on SAS report redesign
+\begin_inset Newline newline
+\end_inset
+
+▸ Designed Hadoop and Tableau reporting process, automating a previously
+ manual process
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
 Apr.
  2016-
 \begin_inset Newline newline
 \end_inset
 
-Present
+Jan.
+ 2017
 \end_layout
 
 \end_inset
@@ -739,7 +818,7 @@ Skills
 
 \begin_layout Item
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Quantitative
